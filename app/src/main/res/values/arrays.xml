@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item>@string/menu_home</item>
+
+        <item>@string/menu_setting</item>
+        <item>@string/menu_help</item>
+        <item />
+        <item>@string/menu_exit</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/ic_action_touch</item>
+        <item>@drawable/ic_action_setting</item>
+        <item>@drawable/ic_action_help</item>
+        <item>0</item>
+        <item>@drawable/ic_action_exit</item>
+    </array>
+
+</resources>

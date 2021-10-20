@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name" translatable="false">Internet Optimizer</string>
+    <string name="app_name_sub">Faster, Safer and Reliable</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_setting">App Setting</string>
+    <string name="menu_help">Help</string>
+
+    <string name="menu_exit">Exit</string>
+
+    <string name="start">Activate</string>
+    <string name="stop">Stop</string>
+    <string name="enter_valid_dns">Enter valid DNS Server please.</string>
+    <string name="service_stoppped">service stopped</string>
+    <string name="service_started">service running</string>
+    <string name="choose_dns_server">Choose DNS Server</string>
+    <string name="custom_dns">Custom DNS Server</string>
+    <string name="about">About</string>
+    <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
+    <string name="auto_start">Auto start on boot</string>
+    <string name="service_ready">service ready for start</string>
+    <string name="turn_on">Turn On DNS service</string>
+    <string name="dns_starting">DNS service starting.</string>
+    <string name="general_settings">General Settings</string>
+
+    <string name="rate_title">Like Me So Far..?</string>
+    <string name="rate_text">Rate Me In Playstore</string>
+    <string name="rate_later">Later</string>
+
+
+    <string name="mobile_data">Mobile Data</string>
+    <string name="wifi_data">Wi-Fİ -</string>
+    <string name="no_internet">No Internet</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connected">Connected</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="status">Status:</string>
+    <string name="connection_type">Connection Type:</string>
+
+    <string name="taptarget1_title">Welcome To The Internet Optimizer App Tour</string>
+    <string name="taptarget1_sub">Hit the pulse to continue</string>
+
+    <string name="taptarget2_title">Hit This Button To Activate Service</string>
+    <string name="taptarget2_sub">Service will run in the background service.</string>
+
+    <string name="taptarget3_title">Hit This Button To Change DNS Server</string>
+    <string name="taptarget3_sub">Button will be locked when the service is running</string>
+
+    <string name="taptarget4_title">Lower is Better</string>
+    <string name="taptarget4_sub">This information is a time indicator of the selected server response,measured in milliseconds.
+    but if the value equal 00.00ms the connection is error, or response time greater than 1000ms (1 second).</string>
+
+    <string name="taptarget5_title">Swipe To Open Menu</string>
+    <string name="taptarget5_sub">Thank you for downloading Internet Optimizer app. hope you have nice day :).</string>
+    <string name="home">Home</string>
+
+</resources>

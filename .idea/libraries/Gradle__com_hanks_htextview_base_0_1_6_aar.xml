@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hanks:htextview-base:0.1.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b2af33332664def4fd16dfe1378e62e4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42587819d9c4f78268045cabe85d8ee0/jetified-htextview-base-0.1.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42587819d9c4f78268045cabe85d8ee0/jetified-htextview-base-0.1.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/42587819d9c4f78268045cabe85d8ee0/jetified-htextview-base-0.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b4cd56dfe781a2c5c27b343ca41c8dc6/jetified-htextview-base-0.1.6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b4cd56dfe781a2c5c27b343ca41c8dc6/jetified-htextview-base-0.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b4cd56dfe781a2c5c27b343ca41c8dc6/jetified-htextview-base-0.1.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hanks/htextview-base/0.1.6/ef35389fa1f0d46be5d7ee08f454b6a93393450/htextview-base-0.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hanks/htextview-base/0.1.6/6dee8ab2c3103a809391738c706304c3512ffe2c/htextview-base-0.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

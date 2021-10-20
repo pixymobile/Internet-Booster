@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/main_bg">
+
+    <include layout="@layout/lightning_logo" />
+
+    <RelativeLayout
+        android:id="@+id/detail_card_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include layout="@layout/detail_card"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="20dp"
+        android:layout_below="@id/detail_card_container"
+        android:layout_alignParentEnd="true">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@drawable/upside"
+            android:tint="@drawable/gradient_bg"
+            tools:ignore="UseAppTint" />
+
+        <com.hanks.htextview.scale.ScaleTextView
+            android:id="@+id/ping_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="10dp"
+            android:gravity="end"
+            android:textColor="@color/colorWhite"
+            android:textSize="12dp" />
+
+    </RelativeLayout>
+
+    <com.hanks.htextview.scale.ScaleTextView
+        android:id="@+id/scale_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/dnseditcontainer"
+        android:layout_marginBottom="5dp"
+        android:gravity="center"
+        android:textColor="@color/colorWhite"
+        android:textSize="12dp" />
+
+
+    <LinearLayout
+        android:id="@+id/dnseditcontainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/startButton"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/firstDnsEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-thin"
+            android:gravity="center"
+            android:maxLines="1"
+            android:textColor="@color/colorWhite"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/secondDnsEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-thin"
+            android:gravity="center"
+            android:maxLines="1"
+            android:textColor="@color/colorWhite"
+            android:textSize="15dp" />
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/banner_container"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="45dp"
+        android:layout_marginBottom="181dp"
+        android:background="@drawable/button_red"
+        android:stateListAnimator="@null"
+        android:text="@string/start"
+        android:textColor="@color/colorWhite" />
+
+    <RelativeLayout
+        android:id="@+id/banner_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+
+    <RelativeLayout
+        android:id="@+id/menu_btn"
+        android:layout_width="10dp"
+        android:layout_height="85dp"
+        android:layout_below="@id/detail_card_container"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/half_circle" />
+
+
+
+</RelativeLayout>
+
+

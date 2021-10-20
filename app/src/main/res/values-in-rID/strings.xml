@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Internet Optimizer</string>
+    <string name="app_name_sub">Lebih cepat, aman dan terpercaya</string>
+
+    <string name="menu_home">Menu Utama</string>
+    <string name="menu_setting">Pengaturan</string>
+    <string name="menu_help">Bantuan</string>
+    <string name="menu_exit">Keluar</string>
+
+    <string name="start">Aktifkan</string>
+    <string name="stop">Berhenti</string>
+    <string name="enter_valid_dns">Masukan server DNS valid</string>
+    <string name="service_stoppped">Layanan berhenti</string>
+    <string name="service_started">Layanan sedang berjalan</string>
+    <string name="choose_dns_server">Pilih server DNS</string>
+    <string name="custom_dns">Server DNS kustom</string>
+    <string name="about">Tentang</string>
+    <string name="cancel">Batal</string>
+    <string name="settings">Pengaturan</string>
+    <string name="auto_start">Mulai otomatis pada saat perangkat di hidupkan</string>
+    <string name="service_ready">Layanan siap di jalankan</string>
+    <string name="turn_on">Hidupkan layanan DNS</string>
+    <string name="dns_starting">Memulai layanan DNS.</string>
+    <string name="general_settings">Pengaturan umum</string>
+
+    <string name="rate_title">Suka dengan app ini..?</string>
+    <string name="rate_text">Kalau seandainya bosku suka minta ratenya ya di Playstore :)</string>
+    <string name="rate_later">Lain kali</string>
+
+
+    <string name="mobile_data">Data seluler</string>
+
+    <string name="no_internet">Tidak ada Internet</string>
+    <string name="connecting">Menyambungkan...</string>
+    <string name="connected">Tersambung</string>
+    <string name="not_connected">Tidak Tersambung</string>
+    <string name="status">Status</string>
+    <string name="connection_type">Tipe Koneksi</string>
+
+    <string name="taptarget1_title">Selamat Datang Di Tur Aplikasi</string>
+    <string name="taptarget1_sub">Sentuh untuk melanjutkan</string>
+
+    <string name="taptarget2_title">Tekan Tombol Ini Untuk Mengaktifkan Layanan.</string>
+    <string name="taptarget2_sub">Layanan akan berjalan di latar.</string>
+
+    <string name="taptarget3_title">Tekan Tombol Ini untuk Mengubah Server Dns.</string>
+    <string name="taptarget3_sub">Tombol akan terkunci apabila layanan sedang berjalan.</string>
+
+    <string name="taptarget4_title">Lebih Rendah Lebih baik</string>
+    <string name="taptarget4_sub">Indikator ini menunjukan lamanya waktu respon dari server yang di pilih, dihitung dalam ukuran milidetik.
+        \nTapi jika di indikator tertera 00.00ms artinya koneksinya error, atau waktu respon server lebih besar dari 1000ms(1 detik).</string>
+
+    <string name="taptarget5_title">Usap Untuk Membuka Menu</string>
+    <string name="taptarget5_sub">Terima kasih telah mengunduh app ini ya, Semoga bosku di lancarkan rejekinya, di mudahkan jodohnya, dan semoga bosku selalu dalam keadaan sehat. Amin :).</string>
+
+
+</resources>

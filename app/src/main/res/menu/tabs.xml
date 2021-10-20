@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_home"
+        android:icon="@drawable/alarm"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/tab_alarm"
+        android:icon="@drawable/alarm"
+        android:title="Alarm" />
+
+</menu>
